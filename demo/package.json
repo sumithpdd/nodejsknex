@@ -12,6 +12,7 @@
   "dependencies": {
     "knex": "^0.21.6",
     "prettyjson": "^1.2.1",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.0",
+    "treeize": "^2.1.2"
   }
 }
