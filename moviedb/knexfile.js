@@ -18,6 +18,6 @@ module.exports = {
         },
         migrations: { tableName: 'knex_migrations' },
         seeds: { directory: './seeds' },
-        debug: false
+        debug: true
     }
 };
